@@ -14,7 +14,7 @@ int main()
     scanf("%f", &z);
 
     float sum = x + y + z;
-    float avg = sum / 3;
+    float avg = sum / 3.0;
 
     printf("%f\n", avg);
 

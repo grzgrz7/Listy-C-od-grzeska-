@@ -13,7 +13,7 @@ float x,y;
 scanf("%f", &x);
 scanf("%f", &y);
 
-float product = x*y;  
+float product = x * y;  
 
 printf("%f\n", product);
 

@@ -14,7 +14,7 @@ scanf("%f", &x);
 scanf("%f", &y);
 scanf("%f", &z);
 
-float sum = x+y+z;
+float sum = x + y + z;
 
 printf("%f\n", sum);
 
